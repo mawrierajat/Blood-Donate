@@ -7,8 +7,14 @@
     "test": "jest"
   },
   "dependencies": {
+    "expo": "^28.0.0",
+    "expo-analytics": "^1.0.7",
+    "moment": "^2.22.2",
     "react": "16.3.1",
-    "react-native": "0.55.4"
+    "react-native": "0.55.4",
+    "react-native-ui-kitten": "^3.0.1",
+    "react-navigation": "^2.5.2",
+    "victory-native": "^0.18.2"
   },
   "devDependencies": {
     "babel-jest": "23.0.1",
